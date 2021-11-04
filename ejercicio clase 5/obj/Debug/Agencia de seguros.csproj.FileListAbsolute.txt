@@ -1,0 +1,7 @@
+C:\Users\matt9\source\repos\ejercicio clase 5\ejercicio clase 5\obj\Debug\Agencia de seguros.csproj.AssemblyReference.cache
+C:\Users\matt9\source\repos\ejercicio clase 5\ejercicio clase 5\obj\Debug\Agencia de seguros.csproj.CoreCompileInputs.cache
+C:\Users\matt9\source\repos\ejercicio clase 5\ejercicio clase 5\bin\Debug\ejercicio clase 5.exe.config
+C:\Users\matt9\source\repos\ejercicio clase 5\ejercicio clase 5\bin\Debug\ejercicio clase 5.exe
+C:\Users\matt9\source\repos\ejercicio clase 5\ejercicio clase 5\bin\Debug\ejercicio clase 5.pdb
+C:\Users\matt9\source\repos\ejercicio clase 5\ejercicio clase 5\obj\Debug\ejercicio clase 5.exe
+C:\Users\matt9\source\repos\ejercicio clase 5\ejercicio clase 5\obj\Debug\ejercicio clase 5.pdb
